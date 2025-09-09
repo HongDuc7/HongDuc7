@@ -1,7 +1,7 @@
 # 💫About Me :
  * Hello Guys
 * My full name: Vo Hong Duc
-* You can also call me "Heed"👾
+* You can also call me "HeeD"👾
 * From VIETNAM
 
 ## 🌐Socials
