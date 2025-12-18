@@ -20,6 +20,12 @@
  * Tool: Github, STM32CubeIDE, Arduino Cloud.
  * Other skills: Demonstrated effective communication skills, a strong sense of responsibility, proven experience leading teams.
 ---
+#Interests:
+ * Exploring development kits and platforms such as Raspberry Pi and other embedded systems.
+ * Exploring Japanese culture, anime, and manga.
+ * Watching YouTube channels focused on academic content and AI for IoT.
+ * Travelling, Volunteering.
+--- 
 # 📞Contact Me:
  * Email: 23520323@gm.uit.ed.vn
  * Personal Email: vohongduc610@gmail.com
