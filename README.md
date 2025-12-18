@@ -1,6 +1,8 @@
 # 👉👈Eto, Konnichiwa, Duc desu:
 > My full name: Vo Hong Duc
+> 
 > Commonly known by the nickname: HeeD
+> 
 > I always say: 'Comparision is the thief of joy'
 ---
 # 📚Currently:
