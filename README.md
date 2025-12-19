@@ -26,9 +26,9 @@
  * Watching YouTube channels focused on academic content and AI for IoT.
  * Travelling, Volunteering.
 --- 
-# 📞Contact Me:
- * Email: 23520323@gm.uit.ed.vn
+# 📧 Contact Me:
+ * Email: 23520323@gm.uit.edu.vn
  * Personal Email: vohongduc610@gmail.com
- * Youtube: [HeeD](https://www.youtube.com/@heedonotsleep)
+ * Youtube: https://www.youtube.com/@heedonotsleep
 
 
