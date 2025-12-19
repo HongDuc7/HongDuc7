@@ -7,7 +7,7 @@
 ---
 # 📚Currently:
 
-**[University of Information Technology, Vietnam National University – Ho Chi Minh City]([https://www.uit.edu.vn/](https://www.facebook.com/UIT.Fanpage)**
+[University of Information Technology, Vietnam National University – Ho Chi Minh City](https://www.facebook.com/UIT.Fanpage)
 
  * Major: Computer Engineering (IOT)
  * GPA: 7.63
