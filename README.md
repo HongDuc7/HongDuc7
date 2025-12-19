@@ -8,9 +8,9 @@
 # 📚Currently:
 
 [University of Information Technology, Vietnam National University – Ho Chi Minh City](https://www.facebook.com/UIT.Fanpage)
-
+ * GPA: 7.63 / 10.0
  * Major: Computer Engineering (IOT)
- * GPA: 7.63
+ * Expected Graduation: July 2027
 ---
 # 🎯 Career Objective:
  * A third-year student specializing in AI-powered IoT systems, with hands-on experience in embedded software development on hardware platforms. I aim to build accessible, real-world products that can be deployed at scale, particularly for assistive devices supporting people with disabilities.
