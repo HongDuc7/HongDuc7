@@ -13,6 +13,7 @@
 # 🎯 Career Objective:
  * A third-year student specializing in AI-powered IoT systems, with hands-on experience in embedded software development on hardware platforms. I aim to build accessible, real-world products that can be deployed at scale, particularly for assistive devices supporting people with disabilities.
  * Through hands-on experience with APIs and academic projects, I have developed a strong curiosity about how these systems work and am eager to further engage in related projects.
+ * 
 ---
 # 🪛 Technical Skills:
  * Programming Language: C++, Sketch.
