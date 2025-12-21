@@ -1,7 +1,7 @@
 # 👉👈Eto, Konnichiwa, Vo Hong Duc desu:
 > Commonly known as: **HeeD**
 > 
-> I always say: **'Comparision is the thief of joy'**
+> I always say: **'Comparision is the thief of joy!'**
 ---
 # 📚Currently:
 
