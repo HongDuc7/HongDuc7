@@ -26,6 +26,7 @@
  * Exploring Japanese culture, anime, and manga.
  * Watching YouTube channels focused on academic content and AI for IoT.
  * Travelling, Volunteering.
+ * Using Obsisidan to take every notes.
 --- 
 # 📧 Contact Me:
  * Email: 23520323@gm.uit.edu.vn
