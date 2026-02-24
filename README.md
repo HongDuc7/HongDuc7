@@ -6,7 +6,7 @@
 # 📚Currently:
 
 ## [University of Information Technology, Vietnam National University – Ho Chi Minh City](https://www.facebook.com/UIT.Fanpage)
- * GPA: 7.63 / 10.0
+ * GPA: 7.8 / 10.0
  * Major: Computer Engineering (IOT)
  * Expected Graduation: July 2027
 ---
