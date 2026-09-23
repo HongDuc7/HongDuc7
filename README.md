@@ -24,7 +24,15 @@ Passionate about low-level programming, firmware development, and AIoT systems. 
 
 ---
 
+## 🚀 Featured Projects
+
+- **[Sound_Processing_MobileRobot](https://github.com/HongDuc7/Sound_Processing_MobileRobot)** — Sound processing pipeline for a mobile robot using PhoWhisper and PhoBERT for speech recognition and language understanding, enabling voice-driven robot control.
+- **[3D-ObjectScanner](https://github.com/HongDuc7/3D-ObjectScanner)** — 3D object scanning system using a Sharp distance sensor to capture spatial data, then reconstructing and simulating the object in MeshLab.
+
+---
+
 ## 📬 Connect with Me
 
-- **Email:** 23520323@gm.uit.edu.vn | vohongduc610@gmail.com
-- **LinkedIn:** [](www.linkedin.com/in/vohongduc502)
+- **Email:** [23520323@gm.uit.edu.vn](mailto:23520323@gm.uit.edu.vn) | [vohongduc610@gmail.com](mailto:vohongduc610@gmail.com)
+- **LinkedIn:** [linkedin.com/in/vohongduc502](https://www.linkedin.com/in/vohongduc502)
+- **GitHub:** [github.com/HongDuc7](https://github.com/HongDuc7)
