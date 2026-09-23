@@ -1,7 +1,7 @@
 # Hi there, I'm Duc (HeeD) Vo 👋
 ### Embedded Software Engineer | Computer Engineering Student @ UIT
 
-Passionate about low-level programming, firmware development, and AIoT systems. Experienced in developing firmware on ARM Cortex-M (STM32) and working with hardware communication protocols. Currently seeking an **Embedded Software Intern** role to contribute to mission-critical systems and real-world hardware integration.
+Passionate about low-level programming, firmware development, and AIoT systems. Experienced in developing firmware on ARM Cortex-M (STM32) and working with hardware communication protocols. Currently seeking an **Embedded Software Engineering** role to contribute to mission-critical systems and real-world hardware integration.
 
 ---
 
