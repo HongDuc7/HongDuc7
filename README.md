@@ -27,5 +27,4 @@ Passionate about low-level programming, firmware development, and AIoT systems. 
 ## 📬 Connect with Me
 
 - **Email:** 23520323@gm.uit.edu.vn | vohongduc610@gmail.com
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/vohongduc502)
