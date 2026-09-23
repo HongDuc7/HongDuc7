@@ -5,6 +5,14 @@ Passionate about low-level programming, firmware development, and AIoT systems. 
 
 ---
 
+## 🎓 Education & Background
+
+- **University of Information Technology (UIT – VNU-HCM)**
+  - Major: Computer Engineering (Specialized in IoT & Embedded Systems)
+  - Expected Graduation: 2027
+
+---
+
 ## 🛠 Technical Stack
 
 - **Languages:** C, C++, Python
@@ -13,35 +21,6 @@ Passionate about low-level programming, firmware development, and AIoT systems. 
 - **RTOS & Firmware:** FreeRTOS (Task scheduling, Queues, Semaphores), Bare-metal firmware
 - **Tools & Environments:** STM32CubeIDE, Keil uVision, Git/GitHub, Logic Analyzers, Oscilloscopes
 - **Methods:** Hardware Debugging (ST-Link, JTAG/SWD), Datasheet/Reference Manual Analysis, Unit Testing
-
----
-
-## 🚀 Featured Projects (Portfolio)
-
-### 🛰️ [Project 1: STM32 Sensor Hub / Communication Module](https://github.com/vohongduc-repo-link)
-- **Role & Target:** Developed bare-metal / FreeRTOS firmware on STM32F4/F1 to acquire and route sensor telemetry.
-- **Key Features:**
-  - Configured peripheral drivers using DMA & Interrupts for non-blocking UART and I2C communication.
-  - Implemented CRC-check packet protocols to ensure data integrity over serial links.
-  - Read and parsed raw data by analyzing IC datasheets directly.
-- **Tech Stack:** C, STM32CubeIDE, I2C, UART, FreeRTOS.
-
-### 🤖 [Project 2: Assistive Device / AIoT System](https://github.com/vohongduc-repo-link)
-- **Role & Target:** Designed and deployed an embedded controller integrating sensor fusion and edge inference.
-- **Key Features:**
-  - Integrated sensor modules with hardware debouncing and timer-driven sampling.
-  - Optimized memory footprint and handled power-efficient operational modes.
-- **Tech Stack:** C++, STM32/ESP32, SPI, FreeRTOS.
-
-*(👉 Đức thêm các repo dự án thực tế trên GitHub kèm mã nguồn sạch, README trong từng repo có sơ đồ nối chân pinout và video demo nếu có)*
-
----
-
-## 🎓 Education & Background
-
-- **University of Information Technology (UIT – VNU-HCM)**
-  - Major: Computer Engineering (Specialized in IoT & Embedded Systems)
-  - Expected Graduation: 2027
 
 ---
 
